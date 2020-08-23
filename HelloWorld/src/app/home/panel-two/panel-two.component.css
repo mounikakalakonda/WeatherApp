@@ -1,0 +1,56 @@
+
+.home-panel_odd{
+    vertical-align: center; 
+    background-color:rgb(40,40,40);
+    font-size: 30;
+    top:0;
+    margin: 25;
+    border-radius:40px; 
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+button{
+   background-color:#00aff0;
+   margin-left:200px;
+    
+    border-radius:10px; 
+    height: 20%;
+}
+
+.description-label{
+    font-weight: bold;
+   
+    color:black;
+    
+}
+.h1{
+    text-align: center;
+    font-weight: bold;
+    color:black;
+    display: flex;
+    text-decoration:underline ;
+    text-transform: uppercase;
+   
+    position: relative;
+    font-size: 30%;
+    align-content: center;
+    align-items: stretch;
+}
+
+.h2{
+    color: black;
+    font-size: 20%;
+}
+.StackLayout{
+    max-width: 100%;
+}
+.edit{
+    align-content: center;
+    vertical-align: middle;
+    background-color:black;
+    left:10px;
+    position: absolute;
+}

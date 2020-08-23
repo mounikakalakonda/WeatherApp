@@ -1,0 +1,11 @@
+<WrapLayout class="home-panel_odd" height="300px" orientation="horizontal" (tap)="onPanelTap()" [backgroundImage]="image" [backgroundColor]="color">
+<TextField (textChange)="onValueChange($event)" hint="Enter Location..." *ngIf="display" textcolor="white"></TextField>
+<Button text="search" *ngIf="display" (tap)="onButtonTap()"></Button>
+<Label textWrap="true" text="" class="h1 description-label" width="80px"></Label>
+<Label textWrap="true" [text]="textFieldValue" class="h1 description-label"></Label>
+<Label textWrap="true" [text]="currentWeatherText" class="h5 description-label"></Label>
+<Label textWrap="true" [text]="desOut" class="h5 description-label"></Label>
+<Label textWrap="true" [text]="pressure" class="h6 description-label"></Label>
+<Label textWrap="true" [text]="humidity" class="h6 description-label"></Label>
+<Button text="edit" *ngIf="edit" (tap)="onPanelTap(true)" class="edit"></Button>
+</WrapLayout>
