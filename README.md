@@ -41,15 +41,16 @@ Weather app is the little web app for displaying the weather report from openwea
     
 ## Project Looks like  
 <img src="HelloWorld/src/app/images/1.PNG" width="250"/>
-### On tapping empty panel
+On tapping empty panel
 <img src="HelloWorld/src/app/images/2.PNG" width="250"/>
-### Click on text field
+Click on text field
 <img src="HelloWorld/src/app/images/3.PNG" width="250"/>
-### Enter the City Name 
+Enter the City Name 
 <img src="HelloWorld/src/app/images/4.PNG" width="250"/>
-### It looks like
+It looks like
 <img src="HelloWorld/src/app/images/5.PNG" width="250"/>
-### On clicking edit button
+On clicking edit button
 <img src="HelloWorld/src/app/images/6.PNG" width="250"/>
-## OVERVIEW OF THE PROJECT
+OVERVIEW OF THE PROJECT
 <img src="HelloWorld/src/app/images/7.PNG" width="250"/>
+
