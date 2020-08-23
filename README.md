@@ -5,15 +5,15 @@ Weather app is the little web app for displaying the weather report from openwea
 ## App features
 1. The app consists of a list of panels. Every panel shows the weather data of one city. Initially, all panels would be empty.
 
-2. On tapping on an empty panel, a text box is shown on the panel itself, asking the user to enter the city name. On entering the name, the panel now shows weather data for that city.
+2. On tapping on an empty panel, a text box appears on the panel itself, asking the user to enter the city name. On entering the name, the panel now shows weather data for that particular city.
 
-3. Every panel have an “Edit” button - on clicking this, the user will be able to change the city shown in that panel. 
+3. Every panel have an “Edit” button - on clicking this, the user will be able to change the existing city to some other that user prefers to view in that panel. 
 
-4. If there was an error in getting the data (eg. wrong city name),the panel shows the error and the user can re-enter the city name.
+4. If there was an error in retrieving the data (eg. wrong city name),the panel throws out the error message and thus user can now  verify and re-enter the correct city name.
 
 5. Every panel has a background picture that describes the weather at the city - eg. sunny/rainy/cloudy.
 
-6. Every panel shows city name,temperature,pressure,humidity,and weather condtion.
+6. Every panel discloses city name,temperature,pressure,humidity,and climate condtion.
 ## API Used
 
 [OpenWeatherMap API](https://openweathermap.org/)
