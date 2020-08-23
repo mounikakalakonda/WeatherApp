@@ -1,6 +1,6 @@
 # WeatherApp
 Weather app is the little web app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services,HTML5, CSS3, JS...!
-, 
+
 
 ## App features
 1. The app consists of a list of panels. Every panel shows the weather data of one city. Initially, all panels would be empty.
