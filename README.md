@@ -1,6 +1,6 @@
 # WeatherApp
-Weather app is the little web app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services, Observables, HTML5, CSS3...!
-
+Weather app is the little web app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services,HTML5, CSS3, JS...!
+, 
 
 ## App features
 1. The app consists of a list of panels. Every panel shows the weather data of one city. Initially, all panels would be empty.
@@ -16,13 +16,14 @@ Weather app is the little web app for displaying the weather report from openwea
 6. Every panel shows city name,temperature,pressure,humidity,and weather condtion.
 ## API Used
 
-
+[OpenWeatherMap API](https://openweathermap.org/)
 
 ## Prerequisites  
 1. Install [Node.js®](https://nodejs.org/en/download) and npm
     ```
       node -v 
-      
+    ```
+    ``` 
       npm -v
     ``` 
 2. Install node packages and go to directory having package.json (cd /go/to/app/directory having package.json)
@@ -40,8 +41,13 @@ Weather app is the little web app for displaying the weather report from openwea
     
  ## Project Looks like  
 ![](HelloWorld/src/app/images/1.PNG)
+### On tapping empty panel
 ![](HelloWorld/src/app/images/2.PNG)
+
 ![](HelloWorld/src/app/images/3.PNG)
+
 ![](HelloWorld/src/app/images/4.PNG)
+
 ![](HelloWorld/src/app/images/5.PNG)
+
 ![](HelloWorld/src/app/images/6.PNG)
