@@ -29,7 +29,7 @@ Weather app is the little web app for displaying the weather report from openwea
     ```
 3. Install the latest NativeScript CLI type the following command in a Command Prompt or Terminal.
     ```
-        npm install -g nativescript@latest
+      npm install -g nativescript@latest
     ```
 4. Navigate to your project folder and run the following command to start previewing your app.
     ```
