@@ -13,7 +13,9 @@ Weather app is the little web app for displaying the weather report from openwea
 
 5. Every panel has a background picture that describes the weather at the city - eg. sunny/rainy/cloudy.
 
-6. Every panel shows city name,temparture,pressure,humidity,and weather condtion.
+6. Every panel shows city name,temperature,pressure,humidity,and weather condtion.
+## API Used
+
 
 
 ## Prerequisites  
